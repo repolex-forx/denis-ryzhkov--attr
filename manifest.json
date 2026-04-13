@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "denis-ryzhkov",
+  "repo": "attr",
+  "versions": [
+    {
+      "commit": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c",
+      "parsed_at": "2026-04-13T07:10:37.087404+00:00",
+      "tag": "0.3.2",
+      "filetree": "filetree/27ae02f3d5f896dbfbce232085bdd7d0e0ded89c.nq.gz",
+      "blobs": [
+        "blob/32dd1f74ea306eba10f579812c787704ef962520.nq.gz",
+        "blob/1cea6018fed82e3e55e2f78d6acdd80ff5e6465d.nq.gz",
+        "blob/b1ee433536aa7dda0b01a468b68066e7ce7804a7.nq.gz",
+        "blob/44d9e374bed36021234b5f365d8d214d57827da8.nq.gz",
+        "blob/ced8988416a7766daa4f0c6073c4711c161f7769.nq.gz",
+        "blob/07fb6d1712b1a8063f7df057c8f95ee412f907da.nq.gz",
+        "blob/e66525016b858b18b67ba5f6f70bdae87dbdb1fe.nq.gz",
+        "blob/ff30db39e7c970d8d64128cf98cf169af1162714.nq.gz",
+        "blob/505f79b2ef659fd755980ce3df90f0894f9961ca.nq.gz",
+        "blob/3d92cd6d632f929650569745aa932ebe1eb7c535.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
